@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <HeadTypeDef ParentName="AverageBase">
+		<defName>GEHD_Scale_Male</defName>
+		<graphicPath>Things/Pawn/Humanlike/Heads/Scale/GEHD_Scale_Male</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Male</gender>
+	</HeadTypeDef>
+
+    <HeadTypeDef ParentName="AverageBase">
+		<defName>GEHD_Scale_Female</defName>
+		<graphicPath>Things/Pawn/Humanlike/Heads/Scale/GEHD_Scale_Female</graphicPath>
+		<randomChosen>false</randomChosen>
+		<gender>Female</gender>
+	</HeadTypeDef>
+</Defs>
