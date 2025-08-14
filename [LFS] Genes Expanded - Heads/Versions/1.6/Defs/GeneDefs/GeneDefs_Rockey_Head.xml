@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <GeneDef ParentName="GeneJawBase">
+    <defName>GEHD_Rockey_Head</defName>
+    <label>Rockey head</label>
+    <description>TBD</description>
+    <iconPath>UI/Icons/Genes/GEHD_Rockey_Icon</iconPath>
+    <forcedHeadTypes>
+      <li>GEHD_Rockey_Female</li>
+      <li>GEHD_Rockey_Male</li>
+    </forcedHeadTypes>
+    <displayOrderInCategory>97</displayOrderInCategory>
+	<displayCategory>GEHD_Heads</displayCategory>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>skull</symbol></li>
+        <li><symbol>bone</symbol></li>
+      </prefixSymbols>
+    </symbolPack>
+  </GeneDef>
+</Defs>
