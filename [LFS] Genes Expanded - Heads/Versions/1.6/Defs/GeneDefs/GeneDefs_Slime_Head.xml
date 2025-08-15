@@ -3,7 +3,7 @@
   <GeneDef ParentName="GeneJawBase">
     <defName>GEHD_Slime_Head</defName>
     <label>Slime head</label>
-    <description>TBD</description>
+    <description>A head covered in smooth, rounded blotches resembling thick, viscous slime. The lighter areas highlight its glossy, fluid-like surface, giving it a slick and flowing appearance.</description>
     <iconPath>UI/Icons/Genes/GEHD_Slime_Icon</iconPath>
     <forcedHeadTypes>
       <li>GEHD_Slime_Female</li>

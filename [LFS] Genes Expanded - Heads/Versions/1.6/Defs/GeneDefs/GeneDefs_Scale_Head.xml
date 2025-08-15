@@ -3,7 +3,7 @@
   <GeneDef ParentName="GeneJawBase">
     <defName>GEHD_Scale_Head</defName>
     <label>Scale head</label>
-    <description>TBD</description>
+    <description>A head covered in overlapping reptilian scales, creating a rugged, armor-like look. The gradient from dark at the crown to light at the jaw adds depth and emphasizes its scaly texture.</description>
     <iconPath>UI/Icons/Genes/GEHD_Scale_Icon</iconPath>
     <forcedHeadTypes>
       <li>GEHD_Scale_Female</li>

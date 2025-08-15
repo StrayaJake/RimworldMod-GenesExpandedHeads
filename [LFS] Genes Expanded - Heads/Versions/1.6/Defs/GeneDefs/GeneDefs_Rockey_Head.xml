@@ -3,7 +3,7 @@
   <GeneDef ParentName="GeneJawBase">
     <defName>GEHD_Rockey_Head</defName>
     <label>Rockey head</label>
-    <description>TBD</description>
+    <description>A head encased in a rough, jagged stone surface with visible cracks running across it. The shading adds depth, emphasizing its solid and rugged composition.</description>
     <iconPath>UI/Icons/Genes/GEHD_Rockey_Icon</iconPath>
     <forcedHeadTypes>
       <li>GEHD_Rockey_Female</li>
