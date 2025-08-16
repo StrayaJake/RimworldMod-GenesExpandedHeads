@@ -3,7 +3,7 @@
   <GeneDef ParentName="GeneJawBase">
     <defName>GEHD_Insectoid_Head</defName>
     <label>Insectoid head</label>
-    <description>A head covered in overlapping, segmented plates resembling an insect’s exoskeleton. The layered pattern and shading emphasize its hardened, protective surface.</description>
+    <description>A head encased in rigid, overlapping plates resembling an insect’s shell. The segmented pattern highlights its armored design, built for resilience and survival.</description>
     <iconPath>UI/Icons/Genes/GEHD_Insectoid_Icon</iconPath>
     <forcedHeadTypes>
       <li>GEHD_Insectoid_Female</li>
