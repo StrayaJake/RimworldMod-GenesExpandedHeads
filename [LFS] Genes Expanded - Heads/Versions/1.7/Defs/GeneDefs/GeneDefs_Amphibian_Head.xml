@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <GeneDef ParentName="GeneJawBase">
+    <defName>GEHD_Amphibian_Head</defName>
+    <label>Amphibian head</label>
+    <description>A head cloaked in smooth, mottled skin reminiscent of amphibians. The shifting patterns and soft sheen suggest an adaptive surface suited for both aquatic and terrestrial life.</description>
+    <iconPath>UI/Icons/Genes/GEHD_Amphibian_Icon</iconPath>
+    <forcedHeadTypes>
+      <li>GEHD_Amphibian_Female</li>
+      <li>GEHD_Amphibian_Male</li>
+    </forcedHeadTypes>
+    <displayOrderInCategory>97</displayOrderInCategory>
+	<displayCategory>GEHD_Heads</displayCategory>
+    <symbolPack>
+      <prefixSymbols>
+        <li><symbol>skull</symbol></li>
+        <li><symbol>bone</symbol></li>
+      </prefixSymbols>
+    </symbolPack>
+  </GeneDef>
+</Defs>
